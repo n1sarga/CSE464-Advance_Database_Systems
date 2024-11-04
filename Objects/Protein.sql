@@ -1,0 +1,5 @@
+CREATE OR REPLACE TYPE ProteinType AS OBJECT (
+    ID NUMBER,
+    Name VARCHAR2(100)
+);
+/
